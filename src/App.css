@@ -1,0 +1,156 @@
+.form {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  align-content: center;
+  align-items: center;
+}
+.welcome {
+  width: 170px;
+  height: 24px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #000000;
+}
+.input_submit_disabled{
+  background: grey;
+  opacity: 0.4;
+  pointer-events: none;
+}
+@media (min-width:400px) {
+  .picture {
+    display: flex;
+    flex-direction: column-reverse;
+    background: url(../src/components/logo.png) no-repeat;
+    width: 737px;
+    height: 825px;
+  }
+.text{
+    margin: 0em 0em 0em 2.6em;
+    width: 435px;
+    height: 56px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 55px;
+    color: white;
+  }
+ .tekst_sverhu_kartinki {
+    margin: 0em 0em 3em 4em;
+    width: 301px;
+    height: 38px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 37px;
+    color: white;
+  }
+.form {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+  }
+}
+.input_form {
+  width: 435px;
+  height: 54px;
+  background: #ffffff;
+  border: 1px solid #9e896a;
+  box-sizing: border-box;
+  border-radius: 40px;
+  padding: 0.375rem 0.75rem;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.button_group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 329px;
+  height: 59px;
+  background: #f8eddd;
+  border-radius: 33px;
+}
+.button_inactive {
+  width: 146px;
+  height: 40px;
+  color: #9e896a;
+  background: #f8eddd;
+  border: none;
+  cursor: pointer;
+}
+.button_active {
+  position: static;
+  width: 146px;
+  height: 40px;
+  color: white;
+  background: #9e896a;
+  border-radius: 33px;
+  cursor: pointer;
+}
+.form_css {
+  align-self: center;
+  width: 454px;
+  height: 674px;
+  padding: 10%;
+}
+.form_display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input_submit{
+  width: 232px;
+  height: 49px;
+  background: #9E896A;
+  border-radius: 36px;
+  color: white;
+  cursor: pointer;
+}
+.input_submit:active{
+  background: #553E19;
+}
+.name_input {
+  width: 120px;
+  height: 24px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: normal;
+  color: #000000;
+}
+.input_submit_1 {
+  display: flex;
+  justify-content: flex-end;
+}
+.forgot {
+  width: 108px;
+  height: 18px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  text-decoration: none;
+  color: #000000;
+  margin: 0em 0em 3em 0em;
+}
+.forgot_password {
+  display: flex;
+  justify-content: flex-end;
+}
