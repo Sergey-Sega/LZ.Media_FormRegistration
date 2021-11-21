@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LZ.Media_FormRegistration/static/css/main.a9c8b48b.chunk.css",
+    "main.js": "/LZ.Media_FormRegistration/static/js/main.97c7d361.chunk.js",
+    "main.js.map": "/LZ.Media_FormRegistration/static/js/main.97c7d361.chunk.js.map",
+    "runtime-main.js": "/LZ.Media_FormRegistration/static/js/runtime-main.6b3ebcad.js",
+    "runtime-main.js.map": "/LZ.Media_FormRegistration/static/js/runtime-main.6b3ebcad.js.map",
+    "static/js/2.a8327fa2.chunk.js": "/LZ.Media_FormRegistration/static/js/2.a8327fa2.chunk.js",
+    "static/js/2.a8327fa2.chunk.js.map": "/LZ.Media_FormRegistration/static/js/2.a8327fa2.chunk.js.map",
+    "static/js/3.627ae07f.chunk.js": "/LZ.Media_FormRegistration/static/js/3.627ae07f.chunk.js",
+    "static/js/3.627ae07f.chunk.js.map": "/LZ.Media_FormRegistration/static/js/3.627ae07f.chunk.js.map",
+    "index.html": "/LZ.Media_FormRegistration/index.html",
+    "static/css/main.a9c8b48b.chunk.css.map": "/LZ.Media_FormRegistration/static/css/main.a9c8b48b.chunk.css.map",
+    "static/js/2.a8327fa2.chunk.js.LICENSE.txt": "/LZ.Media_FormRegistration/static/js/2.a8327fa2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LZ.Media_FormRegistration/static/media/logo.ac602504.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3ebcad.js",
+    "static/js/2.a8327fa2.chunk.js",
+    "static/css/main.a9c8b48b.chunk.css",
+    "static/js/main.97c7d361.chunk.js"
+  ]
+}
